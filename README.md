@@ -4,7 +4,8 @@ Portfólio de Gustavo Dias para apresentar seis projetos a pequenos negócios. A
 
 ## Estrutura
 
-- `index.html`: apresentação, projetos, benefícios, serviços, processo, sobre, FAQ e contato.
+- `index.html`: página principal para apresentar os serviços, o processo, Gustavo, dúvidas e contato.
+- `projetos.html`: catálogo separado com os trabalhos e conceitos do portfólio.
 - `projetos/`: páginas individuais para Clínica CB, Barbearia Rafael Toledo, TORRA NOBRE, Coach Max, KYMA e Brechó da Sassá.
 - `css/style.css`: layout responsivo, identidade visual e estilos das páginas de projeto.
 - `js/main.js`: navegação móvel acessível e ano automático no rodapé.
@@ -13,7 +14,7 @@ Portfólio de Gustavo Dias para apresentar seis projetos a pequenos negócios. A
 
 ## Direção visual
 
-Off-white, grafite e azul inspirados no logo Site.on, com títulos serifados e corpo em fonte sem serifa local. A composição editorial prioriza capturas reais dos projetos, linhas e tipografia; não usa gradientes decorativos, animações de rolagem, cartões flutuantes ou iconografia repetida. O texto é direto e escrito para clientes sem familiaridade com tecnologia.
+Marfim, carvão, azul da marca, oliva e terracota, com títulos serifados e corpo em fonte sem serifa local. A página de serviços usa uma composição editorial própria; os projetos ficam em uma tela separada. A rolagem tem apenas um indicador discreto, e as etapas do processo ganham destaque conforme entram na tela. O texto é direto e escrito para clientes sem familiaridade com tecnologia.
 
 ## Projetos
 
