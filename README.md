@@ -1,19 +1,19 @@
 # Site.on por Gustavo Dias
 
-Portfólio premium para apresentar seis sites e projetos digitais de forma visual e acessível a pequenos negócios.
+Portfólio de Gustavo Dias para apresentar seis projetos a pequenos negócios. A comunicação é direta, com páginas individuais, imagens dos sites e contato pelo WhatsApp.
 
 ## Estrutura
 
 - `index.html`: apresentação, projetos, benefícios, serviços, processo, sobre, FAQ e contato.
 - `projetos/`: páginas individuais para Clínica CB, Barbearia Rafael Toledo, TORRA NOBRE, Coach Max, KYMA e Brechó da Sassá.
-- `css/style.css` e `css/premium.css`: layout responsivo, identidade visual e acabamento editorial.
+- `css/style.css`: layout responsivo, identidade visual e estilos das páginas de projeto.
 - `js/main.js`: navegação móvel acessível e ano automático no rodapé.
 - `img/`: logotipo e capturas/imagens verificadas nos próprios projetos.
 - `fonts/`: arquivos de fonte licenciados reaproveitados do repositório Site.on.
 
 ## Direção visual
 
-Grafite `#111418`, off-white `#EAE6DF`, dourado fosco `#B89A72` e cinza mineral `#777C78`, com tipografia Manrope e Cormorant Garamond. A página usa texto comercial simples, espaço amplo e foco visual nos projetos.
+Off-white, grafite e azul inspirados no logo Site.on, com títulos serifados e corpo em fonte sem serifa local. A composição editorial prioriza capturas reais dos projetos, linhas e tipografia; não usa gradientes decorativos, animações de rolagem, cartões flutuantes ou iconografia repetida. O texto é direto e escrito para clientes sem familiaridade com tecnologia.
 
 ## Projetos
 
