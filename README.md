@@ -32,7 +32,7 @@ Os projetos conceituais estão identificados como tal. Nenhum depoimento, métri
 ## Contato
 
 - WhatsApp: +55 51 99511-8200
-- Instagram: [@usesite.on](https://instagram.com/usesite.on)
+- Instagram: [@diass.gustavo_](https://instagram.com/diass.gustavo_)
 
 ## Publicação
 
